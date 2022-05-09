@@ -15,3 +15,9 @@
 It appears that as this "Silver Tsunami" moves through the company will need to fill 72458 roles in total 
 
 with only 1549 mentorship eligable emloyees there is a substantial risk that there will not be enough support to develop backfills for all these roles. 
+
+## additional queries to look in to: 
+
+What is the ratio of mentorship employees to retiring employees by department? 
+
+what is the break down of retiring employees by time horizon (1 year, 2 year, 3 year, etc.) 
